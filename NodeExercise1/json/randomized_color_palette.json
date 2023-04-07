@@ -1,0 +1,37 @@
+[
+    {
+        "color": "turquoise 2",
+        "code": {
+            "hex": "#00E5EE"
+        },
+        "id": 154
+    },
+    {
+        "color": "darkslategray 4",
+        "code": {
+            "hex": "#528B8B"
+        },
+        "id": 175
+    },
+    {
+        "color": "darkturquoise",
+        "code": {
+            "hex": "#00CED1"
+        },
+        "id": 158
+    },
+    {
+        "color": "lightblue 2",
+        "code": {
+            "hex": "#B2DFEE"
+        },
+        "id": 145
+    },
+    {
+        "color": "manganeseblue",
+        "code": {
+            "hex": "#03A89E"
+        },
+        "id": 183
+    }
+]
