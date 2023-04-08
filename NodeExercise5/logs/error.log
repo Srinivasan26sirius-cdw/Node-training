@@ -1,0 +1,6 @@
+error: Apr-07-2023 16:40:55: 	500 - undefined - /buddy/list - GET - ::ffff:127.0.0.1
+error: Apr-08-2023 19:39:01: 	500 - Bad Request - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+error: Apr-08-2023 19:40:05: 	500 - Bad Request - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+error: Apr-08-2023 19:44:48: 	500 - Bad Request - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+error: Apr-08-2023 19:45:11: 	500 - Bad Request - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+error: Apr-08-2023 19:47:40: 	500 - Bad Request - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
