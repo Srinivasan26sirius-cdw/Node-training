@@ -1,4 +1,5 @@
 let addServices = require('../services/buddyServices')
+let moment=require('moment')
 let {warningLogger, infoLogger, errorLogger} = require('../utils/logger')
 /**
  * This function lists buddies and returns a JSON response with a 200 status code, or a 400 status code
@@ -13,7 +14,8 @@ let {warningLogger, infoLogger, errorLogger} = require('../utils/logger')
  * statement block.
  */
 const list=async(req,res)=>{
-    try{
+    infoLogger.info("List function has started")
+    try {
         let response=await addServices.listBuddy()
         if(response instanceof Error) throw response
         res.status(200).json(response)
@@ -23,6 +25,7 @@ const list=async(req,res)=>{
         errorLogger.error(`500 - ${res.statusMessage} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
         res.status(500).send("Internal Server Error");
     }
+    infoLogger.info("List function has ended")
 }
 
 
@@ -39,6 +42,7 @@ const list=async(req,res)=>{
  * argument. It is used to handle any errors that may occur during the execution of the function.
  */
 const listSingleBuddy=async (req,res)=>{ 
+    infoLogger.info("listSingleBuddy function has started")
     try{
         let response = await addServices.listSingleBuddy(req.params.value)
         if(response instanceof Error) throw response
@@ -55,7 +59,7 @@ const listSingleBuddy=async (req,res)=>{
         errorLogger.error(`500 - ${res.statusMessage} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
         res.status(500).send("Internal Server Error");
     }
-    
+    infoLogger.info("ListSingleBuddy function has ended")
     
 }
 
@@ -73,22 +77,32 @@ const listSingleBuddy=async (req,res)=>{
  * response to the client.
  */
 const addNewBuddy=async (req,res)=>{
+    infoLogger.info("addNewBuddy function has started")
     try{
-        let response=await addServices.addNewBuddy(req.body)
-        if(response instanceof Error) throw response
-        if(response.statusCode==409) {
-            res.status(response.statusCode).send(response.message);
-            warningLogger.warn(`409 - ${response.message} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
+
+        let validDate = moment(req.body.DOB, 'DD/MM/YYYY',true).isValid()
+        if(!((/^[0-9]*$/).test(req.body.employeeId)) || !validDate){
+            res.status(400).send("invalid data");
+            warningLogger.warn(`400 - invalid id or date  - ${req.originalUrl} - ${req.method} - ${req.ip}`);
         }
         else {
-            res.status(response.statusCode).send(response.message);
-            infoLogger.info(`201 - ${response.message} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
+            let response=await addServices.addNewBuddy(req.body)
+            if(response instanceof Error) throw response
+            if(response.statusCode==409) {
+                res.status(response.statusCode).send(response.message);
+                warningLogger.warn(`409 - ${response.message} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
+            }
+            else {
+                res.status(response.statusCode).send(response.message);
+                infoLogger.info(`201 - ${response.message} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
+            }
         }
     }
     catch(err){
         errorLogger.error(`500 - ${res.statusMessage} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
         res.status(500).send("Internal Server Error");
     }
+    infoLogger.info("addNewBuddy function has ended")
 }
 
 /**
@@ -105,6 +119,7 @@ const addNewBuddy=async (req,res)=>{
  * response to the client.
  */
 const updateBuddy=async (req,res)=>{
+    infoLogger.info("updateBuddy function has started")
     try {
         let response=await addServices.updateBuddy(req.params.id,req.body)
         if(response instanceof Error) throw response
@@ -123,7 +138,7 @@ const updateBuddy=async (req,res)=>{
         errorLogger.error(`500 - ${res.statusMessage} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
         res.status(500).send("Internal Server Error");
     }
-    
+    infoLogger.info("updateBuddy function has ended")
 }
 
 /**
@@ -139,6 +154,7 @@ const updateBuddy=async (req,res)=>{
  * argument. It is used to handle any errors that may occur during the execution of the function.
  */
 const deleteBuddy=async (req,res)=>{
+    infoLogger.info("deleteBuddy function has started")
     try {
         let response=await addServices.deleteBuddy(req.params.id)
         if(response instanceof Error) throw response
@@ -156,6 +172,7 @@ const deleteBuddy=async (req,res)=>{
         errorLogger.error(`500 - ${res.statusMessage} - ${req.originalUrl} - ${req.method} - ${req.ip}`);
         res.status(500).send("Internal Server Error");
     }
+    infoLogger.info("deleteBuddy function has ended")
 }
 
 module.exports={list,listSingleBuddy,addNewBuddy,updateBuddy,deleteBuddy}

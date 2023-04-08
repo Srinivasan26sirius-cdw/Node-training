@@ -1,3 +1,57 @@
 info: Apr-07-2023 15:45:19: 	400 - OK - /buddy/list - GET - ::ffff:127.0.0.1
 info: Apr-07-2023 17:29:05: 	201 - [object Object] - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
 info: Apr-07-2023 17:36:55: 	200 - [object Object] - /buddy/listSingleBuddy/1234 - GET - ::ffff:127.0.0.1
+info: Apr-08-2023 19:29:54: 	addNewBuddy function has started
+info: Apr-08-2023 19:29:54: 	201 - Buddy has been added successfully - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+info: Apr-08-2023 19:29:54: 	addNewBuddy function has ended
+info: Apr-08-2023 19:35:38: 	addNewBuddy function has started
+info: Apr-08-2023 19:35:38: 	201 - Buddy has been added successfully - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+info: Apr-08-2023 19:35:38: 	addNewBuddy function has ended
+info: Apr-08-2023 19:39:01: 	addNewBuddy function has started
+info: Apr-08-2023 19:40:05: 	addNewBuddy function has started
+info: Apr-08-2023 19:44:48: 	addNewBuddy function has started
+info: Apr-08-2023 19:45:11: 	addNewBuddy function has started
+info: Apr-08-2023 19:47:40: 	addNewBuddy function has started
+info: Apr-08-2023 19:51:05: 	addNewBuddy function has started
+info: Apr-08-2023 19:51:05: 	addNewBuddy function has ended
+info: Apr-08-2023 19:51:10: 	addNewBuddy function has started
+info: Apr-08-2023 19:51:10: 	addNewBuddy function has ended
+info: Apr-08-2023 19:51:14: 	addNewBuddy function has started
+info: Apr-08-2023 19:51:14: 	addNewBuddy function has ended
+info: Apr-08-2023 19:52:49: 	addNewBuddy function has started
+info: Apr-08-2023 19:52:49: 	addNewBuddy function has ended
+info: Apr-08-2023 19:53:53: 	addNewBuddy function has started
+info: Apr-08-2023 19:53:53: 	addNewBuddy function has ended
+info: Apr-08-2023 19:54:12: 	addNewBuddy function has started
+info: Apr-08-2023 19:54:12: 	addNewBuddy function has ended
+info: Apr-08-2023 19:54:41: 	addNewBuddy function has started
+info: Apr-08-2023 19:54:41: 	addNewBuddy function has ended
+info: Apr-08-2023 19:54:54: 	addNewBuddy function has started
+info: Apr-08-2023 19:54:54: 	addNewBuddy function has ended
+info: Apr-08-2023 19:55:57: 	addNewBuddy function has started
+info: Apr-08-2023 19:55:57: 	addNewBuddy function has ended
+info: Apr-08-2023 19:56:14: 	addNewBuddy function has started
+info: Apr-08-2023 19:56:14: 	addNewBuddy function has ended
+info: Apr-08-2023 20:03:08: 	addNewBuddy function has started
+info: Apr-08-2023 20:03:08: 	addNewBuddy function has ended
+info: Apr-08-2023 20:03:17: 	addNewBuddy function has started
+info: Apr-08-2023 20:03:17: 	201 - Buddy has been added successfully - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+info: Apr-08-2023 20:03:17: 	addNewBuddy function has ended
+info: Apr-08-2023 20:03:30: 	addNewBuddy function has started
+info: Apr-08-2023 20:03:30: 	addNewBuddy function has ended
+info: Apr-08-2023 20:06:13: 	addNewBuddy function has started
+info: Apr-08-2023 20:06:13: 	addNewBuddy function has ended
+info: Apr-08-2023 20:12:13: 	addNewBuddy function has started
+info: Apr-08-2023 20:12:13: 	addNewBuddy function has ended
+info: Apr-08-2023 20:12:26: 	addNewBuddy function has started
+info: Apr-08-2023 20:12:26: 	addNewBuddy function has ended
+info: Apr-08-2023 20:12:44: 	addNewBuddy function has started
+info: Apr-08-2023 20:12:44: 	201 - Buddy has been added successfully - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+info: Apr-08-2023 20:12:44: 	addNewBuddy function has ended
+info: Apr-08-2023 20:13:01: 	addNewBuddy function has started
+info: Apr-08-2023 20:13:01: 	addNewBuddy function has ended
+info: Apr-08-2023 20:13:15: 	addNewBuddy function has started
+info: Apr-08-2023 20:13:15: 	201 - Buddy has been added successfully - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+info: Apr-08-2023 20:13:15: 	addNewBuddy function has ended
+info: Apr-08-2023 20:13:23: 	addNewBuddy function has started
+info: Apr-08-2023 20:13:23: 	addNewBuddy function has ended

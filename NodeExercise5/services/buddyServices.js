@@ -12,9 +12,6 @@ const addNewBuddy= async(body)=>{
     let addBuddy
     try {
         let fileData = await fileRead('assets/cdw_ace23_buddies.json')
-        if(!fileData) {
-            console.log("file is empty")
-        }
         addBuddy=JSON.parse(fileData)
         let flag=addBuddy.some((data)=>data.employeeId == body.employeeId)
         if(flag) {
@@ -67,9 +64,6 @@ const listBuddy=async()=>{
 const listSingleBuddy = async (value) => {
     try{
         let fileData= await fileRead('assets/cdw_ace23_buddies.json')
-        if(!fileData) {
-            console.log("file is empty")
-        }
         let buddyData = JSON.parse(fileData)
         let singleBuddy = buddyData.find((buddyInfo) => buddyInfo.employeeId == value || buddyInfo.realName == value);
         if(singleBuddy == undefined){
@@ -131,9 +125,6 @@ const updateBuddy=async (id,body)=>{
 const deleteBuddy= async (id)=>{
     try {
         let fileData = await fileRead('assets/cdw_ace23_buddies.json')
-        if(!fileData) {
-            console.log("file is empty")
-        }
         let buddy=JSON.parse(fileData)
         let flag=buddy.some((buddyInfo)=>buddyInfo.employeeId == id)
         if(!flag)

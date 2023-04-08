@@ -1,7 +1,7 @@
 //importing required modules
 let express=require('express')
 let fs=require('fs')
-let logger=require('./utils/logger');
+let {errorLogger}=require('./utils/logger');
 let cors=require('cors')
 require('dotenv').config()
 let buddyRouter=require('./routes/buddyRouter')

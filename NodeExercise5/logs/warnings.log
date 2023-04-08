@@ -1,3 +1,26 @@
 warn: Apr-07-2023 15:48:26: 	API Doesn't serves this request
 warn: Apr-07-2023 17:29:54: 	409 - [object Object] - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
 warn: Apr-07-2023 17:36:44: 	API Doesn't serves this request
+warn: Apr-08-2023 19:30:56: 	API Doesn't serves this request
+warn: Apr-08-2023 19:39:01: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:40:05: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:44:48: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:45:11: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:47:40: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:51:05: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:51:10: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:51:14: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:52:49: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:53:53: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:54:12: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:54:41: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:54:54: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:55:57: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 19:56:14: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:03:08: 	409 - Id already exists - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:03:30: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:06:13: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:12:13: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:12:26: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:13:01: 	400 - invalid id or date  - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
+warn: Apr-08-2023 20:13:23: 	409 - Id already exists - /buddy/addNewBuddy - POST - ::ffff:127.0.0.1
