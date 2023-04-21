@@ -1,0 +1,81 @@
+warn: Apr-13-2023 14:50:00: 	400 - invalid data  - /task/createTask - POST - ::ffff:127.0.0.1
+warn: Apr-13-2023 16:11:22: 	404 - task does not exists - /task/readSingleTask/1236 - GET - ::ffff:127.0.0.1
+warn: Apr-13-2023 16:16:27: 	404 - task does not exists - /task/readSingleTask/1233 - GET - ::ffff:127.0.0.1
+warn: Apr-13-2023 16:25:21: 	404 - task does not exists - /task/readSingleTask/1233 - GET - ::ffff:127.0.0.1
+warn: Apr-13-2023 16:25:23: 	404 - task does not exists - /task/readSingleTask/1233 - GET - ::ffff:127.0.0.1
+warn: Apr-13-2023 17:57:41: 	404 - task doesn't exists - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+warn: Apr-13-2023 19:08:39: 	undefined - task does not exists - /task/deleteTask/1234 - DELETE - ::ffff:127.0.0.1
+warn: Apr-13-2023 19:14:06: 	undefined - task does not exists - /task/deleteTask/1234 - DELETE - ::ffff:127.0.0.1
+warn: Apr-13-2023 19:14:07: 	undefined - task does not exists - /task/deleteTask/1234 - DELETE - ::ffff:127.0.0.1
+warn: Apr-13-2023 19:14:07: 	undefined - task does not exists - /task/deleteTask/1234 - DELETE - ::ffff:127.0.0.1
+warn: Apr-13-2023 19:16:24: 	undefined - task does not exists - /task/deleteTask/1234 - DELETE - ::ffff:127.0.0.1
+warn: Apr-14-2023 08:24:32: 	400 - invalid data  - /task/createTask - POST - ::ffff:127.0.0.1
+warn: Apr-14-2023 19:17:36: 	404 - task does not exists - /task/deleteTask/1236 - DELETE - ::ffff:127.0.0.1
+warn: Apr-15-2023 02:49:01: 	401 - invalid token - /task/deleteTask/1236 - DELETE - ::ffff:127.0.0.1
+warn: Apr-15-2023 03:24:38: 	401 - invalid token - /task/deleteTask/1236 - DELETE - ::ffff:127.0.0.1
+warn: Apr-15-2023 19:15:23: 	401 - invalid token - /task/filterTask/title/abcd - GET - ::ffff:127.0.0.1
+warn: Apr-15-2023 19:20:02: 	404 - match not found - /task/filterTask/priority/9 - GET - ::ffff:127.0.0.1
+warn: Apr-15-2023 19:20:37: 	404 - match not found - /task/filterTask/priority/9 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 00:34:59: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2024 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 00:35:45: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2024 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 00:45:58: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2024 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:09:41: 	409 - id already exists - /task/createTask - POST - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:10:03: 	409 - id already exists - /task/createTask - POST - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:11:41: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:12:04: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:13:34: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:16:24: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:16:27: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:16:28: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:16:28: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:19:35: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=4 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:22:55: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=4 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:23:17: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=4 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:28:58: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=5&page=3 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:29:53: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=2&page=6 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 02:31:25: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=5 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 03:57:04: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 03:57:05: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 03:57:05: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 03:57:25: 	404 - match not found - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:00:54: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:01:19: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:01:30: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:02:08: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:02:32: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:06:02: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:08:05: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:08:26: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:08:28: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:09:24: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:09:31: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:11:07: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:11:20: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:14:54: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:15:58: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:16:09: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:18:46: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:19:22: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:19:40: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:19:52: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:20:24: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:20:31: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:21:00: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:21:08: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:21:45: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:22:15: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:22:25: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:23:38: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:23:46: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=5 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:35:21: 	401 - invalid token - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:45:29: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:45:46: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:47:16: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 04:47:46: 	404 - there are no tasks to display - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 13:27:29: 	401 - invalid token - /task/sortingTask?criteria=dueDate&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 13:27:48: 	401 - invalid token - /task/sortingTask?criteria=dueDate&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 13:38:04: 	404 - there are no tasks to display - /task/sortingTask?criteria=title&pageSize=4&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 13:38:13: 	404 - there are no tasks to display - /task/sortingTask?criteria=title&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 13:42:17: 	404 - there are no tasks to display - /task/sortingTask?criteria=priority&pageSize=5&page=prev - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 13:45:31: 	404 - there are no tasks to display - /task/sortingTask?criteria=dueDate&pageSize=4&page=next - GET - ::ffff:127.0.0.1
+warn: Apr-16-2023 21:19:11: 	409 - id already exists - /task/createTask - POST - ::ffff:127.0.0.1

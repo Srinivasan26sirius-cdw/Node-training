@@ -1,0 +1,22 @@
+[
+    {
+        "userName": "kumar",
+        "password": "$2b$10$e96kbwWzPVepwyup8jM0huYwcC4VqrTgB1ktAN8LEiwcU5HkKk3VW"
+    },
+    {
+        "userName": "ashok",
+        "password": "$2b$10$lcMpTYoMo6YcqNjXlLrBFunMSyYxhrblTlLfRYV1hwIBbOwhrx0ku"
+    },
+    {
+        "userName": "kavin",
+        "password": "$2b$10$lOq4ZtoJmbrIHzvSMa2wiO04wsc9IQZvD9quKONqpbbbdWLzMyGD6"
+    },
+    {
+        "userName": "jack",
+        "password": "$2b$10$fFr3zDa7/MRdPkfCTvq8L.iezrd/R4XjQfTRS9I/mAnbg1TDb7G3i"
+    },
+    {
+        "userName": "vijay",
+        "password": "$2b$10$2EbnktkBjrc3m8i2wX1IFOFqgo7vrs29U6MVwTBGe1OYS1zCxsftq"
+    }
+]

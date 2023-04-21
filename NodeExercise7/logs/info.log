@@ -1,0 +1,1018 @@
+info: Apr-12-2023 01:09:09: 	createTask function has started
+info: Apr-12-2023 01:09:09: 	createTask function has ended
+info: Apr-13-2023 13:55:46: 	createTask function has started
+info: Apr-13-2023 13:55:46: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-13-2023 13:55:46: 	createTask function has ended
+info: Apr-13-2023 14:12:55: 	createTask function has started
+info: Apr-13-2023 14:12:55: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-13-2023 14:12:55: 	createTask function has ended
+info: Apr-13-2023 14:14:47: 	createTask function has started
+info: Apr-13-2023 14:14:47: 	createTask function has ended
+info: Apr-13-2023 14:22:21: 	createTask function has started
+info: Apr-13-2023 14:22:21: 	createTask function has ended
+info: Apr-13-2023 14:28:54: 	createTask function has started
+info: Apr-13-2023 14:28:54: 	createTask function has ended
+info: Apr-13-2023 14:37:10: 	createTask function has started
+info: Apr-13-2023 14:37:10: 	createTask function has ended
+info: Apr-13-2023 14:39:54: 	createTask function has started
+info: Apr-13-2023 14:39:54: 	createTask function has ended
+info: Apr-13-2023 14:40:28: 	createTask function has started
+info: Apr-13-2023 14:40:28: 	createTask function has ended
+info: Apr-13-2023 14:43:16: 	createTask function has started
+info: Apr-13-2023 14:45:36: 	createTask function has started
+info: Apr-13-2023 14:46:32: 	createTask function has started
+info: Apr-13-2023 14:46:32: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-13-2023 14:46:32: 	createTask function has ended
+info: Apr-13-2023 14:50:00: 	createTask function has started
+info: Apr-13-2023 14:50:00: 	createTask function has ended
+info: Apr-13-2023 14:50:14: 	createTask function has started
+info: Apr-13-2023 14:50:14: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-13-2023 14:50:14: 	createTask function has ended
+info: Apr-13-2023 15:16:09: 	readTask function has started
+info: Apr-13-2023 15:16:09: 	readTask function has ended
+info: Apr-13-2023 15:22:52: 	readTask function has started
+info: Apr-13-2023 15:22:52: 	readTask function has ended
+info: Apr-13-2023 15:22:53: 	readTask function has started
+info: Apr-13-2023 15:22:53: 	readTask function has ended
+info: Apr-13-2023 15:22:53: 	readTask function has started
+info: Apr-13-2023 15:22:53: 	readTask function has ended
+info: Apr-13-2023 15:23:10: 	readTask function has started
+info: Apr-13-2023 15:23:10: 	readTask function has ended
+info: Apr-13-2023 15:23:11: 	readTask function has started
+info: Apr-13-2023 15:23:11: 	readTask function has ended
+info: Apr-13-2023 15:23:11: 	readTask function has started
+info: Apr-13-2023 15:23:11: 	readTask function has ended
+info: Apr-13-2023 15:24:09: 	readTask function has started
+info: Apr-13-2023 15:24:09: 	readTask function has ended
+info: Apr-13-2023 15:24:10: 	readTask function has started
+info: Apr-13-2023 15:24:10: 	readTask function has ended
+info: Apr-13-2023 15:24:10: 	readTask function has started
+info: Apr-13-2023 15:24:10: 	readTask function has ended
+info: Apr-13-2023 15:24:26: 	readTask function has started
+info: Apr-13-2023 15:24:26: 	readTask function has ended
+info: Apr-13-2023 15:26:20: 	readTask function has started
+info: Apr-13-2023 15:26:20: 	readTask function has ended
+info: Apr-13-2023 15:26:21: 	readTask function has started
+info: Apr-13-2023 15:26:21: 	readTask function has ended
+info: Apr-13-2023 15:26:21: 	readTask function has started
+info: Apr-13-2023 15:26:21: 	readTask function has ended
+info: Apr-13-2023 15:26:22: 	readTask function has started
+info: Apr-13-2023 15:26:22: 	readTask function has ended
+info: Apr-13-2023 15:26:22: 	readTask function has started
+info: Apr-13-2023 15:26:22: 	readTask function has ended
+info: Apr-13-2023 15:26:22: 	readTask function has started
+info: Apr-13-2023 15:26:22: 	readTask function has ended
+info: Apr-13-2023 15:26:23: 	readTask function has started
+info: Apr-13-2023 15:26:23: 	readTask function has ended
+info: Apr-13-2023 15:26:32: 	readTask function has started
+info: Apr-13-2023 15:26:32: 	readTask function has ended
+info: Apr-13-2023 15:26:33: 	readTask function has started
+info: Apr-13-2023 15:26:33: 	readTask function has ended
+info: Apr-13-2023 15:26:33: 	readTask function has started
+info: Apr-13-2023 15:26:33: 	readTask function has ended
+info: Apr-13-2023 15:26:33: 	readTask function has started
+info: Apr-13-2023 15:26:33: 	readTask function has ended
+info: Apr-13-2023 15:26:34: 	readTask function has started
+info: Apr-13-2023 15:26:34: 	readTask function has ended
+info: Apr-13-2023 15:26:34: 	readTask function has started
+info: Apr-13-2023 15:26:34: 	readTask function has ended
+info: Apr-13-2023 15:26:35: 	readTask function has started
+info: Apr-13-2023 15:26:35: 	readTask function has ended
+info: Apr-13-2023 15:26:35: 	readTask function has started
+info: Apr-13-2023 15:26:35: 	readTask function has ended
+info: Apr-13-2023 15:26:35: 	readTask function has started
+info: Apr-13-2023 15:26:35: 	readTask function has ended
+info: Apr-13-2023 15:26:35: 	readTask function has started
+info: Apr-13-2023 15:26:35: 	readTask function has ended
+info: Apr-13-2023 15:30:02: 	readTask function has started
+info: Apr-13-2023 15:30:02: 	readTask function has ended
+info: Apr-13-2023 15:30:03: 	readTask function has started
+info: Apr-13-2023 15:30:03: 	readTask function has ended
+info: Apr-13-2023 15:30:03: 	readTask function has started
+info: Apr-13-2023 15:30:03: 	readTask function has ended
+info: Apr-13-2023 15:30:05: 	readTask function has started
+info: Apr-13-2023 15:30:05: 	readTask function has ended
+info: Apr-13-2023 15:30:05: 	readTask function has started
+info: Apr-13-2023 15:30:05: 	readTask function has ended
+info: Apr-13-2023 15:30:05: 	readTask function has started
+info: Apr-13-2023 15:30:05: 	readTask function has ended
+info: Apr-13-2023 15:30:06: 	readTask function has started
+info: Apr-13-2023 15:30:06: 	readTask function has ended
+info: Apr-13-2023 15:30:06: 	readTask function has started
+info: Apr-13-2023 15:30:06: 	readTask function has ended
+info: Apr-13-2023 15:30:06: 	readTask function has started
+info: Apr-13-2023 15:30:06: 	readTask function has ended
+info: Apr-13-2023 15:31:00: 	readTask function has started
+info: Apr-13-2023 15:31:00: 	200 - /task/readTask - GET - ::ffff:127.0.0.1
+info: Apr-13-2023 15:31:00: 	readTask function has ended
+info: Apr-13-2023 15:35:18: 	readTask function has started
+info: Apr-13-2023 15:35:18: 	200 - /task/readTask - GET - ::ffff:127.0.0.1
+info: Apr-13-2023 15:35:18: 	readTask function has ended
+info: Apr-13-2023 16:10:52: 	readSingleTask function has started
+info: Apr-13-2023 16:10:52: 	200 - /task/readSingleTask/1235 - GET - ::ffff:127.0.0.1
+info: Apr-13-2023 16:10:52: 	readSingleTask function has ended
+info: Apr-13-2023 16:11:22: 	readSingleTask function has started
+info: Apr-13-2023 16:11:22: 	readSingleTask function has ended
+info: Apr-13-2023 16:11:32: 	readSingleTask function has started
+info: Apr-13-2023 16:11:32: 	200 - /task/readSingleTask/1234 - GET - ::ffff:127.0.0.1
+info: Apr-13-2023 16:11:32: 	readSingleTask function has ended
+info: Apr-13-2023 16:16:27: 	readSingleTask function has started
+info: Apr-13-2023 16:16:27: 	readSingleTask function has ended
+info: Apr-13-2023 16:25:21: 	readSingleTask function has started
+info: Apr-13-2023 16:25:21: 	readSingleTask function has ended
+info: Apr-13-2023 16:25:23: 	readSingleTask function has started
+info: Apr-13-2023 16:25:23: 	readSingleTask function has ended
+info: Apr-13-2023 16:25:46: 	readSingleTask function has started
+info: Apr-13-2023 16:25:46: 	200 - /task/readSingleTask/1234 - GET - ::ffff:127.0.0.1
+info: Apr-13-2023 16:25:46: 	readSingleTask function has ended
+info: Apr-13-2023 16:59:16: 	updateTask function has started
+info: Apr-13-2023 16:59:16: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 16:59:16: 	updateTask function has ended
+info: Apr-13-2023 17:01:18: 	updateTask function has started
+info: Apr-13-2023 17:01:18: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:01:18: 	updateTask function has ended
+info: Apr-13-2023 17:01:21: 	updateTask function has started
+info: Apr-13-2023 17:01:21: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:01:21: 	updateTask function has ended
+info: Apr-13-2023 17:33:15: 	updateTask function has started
+info: Apr-13-2023 17:33:15: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:33:15: 	updateTask function has ended
+info: Apr-13-2023 17:33:16: 	updateTask function has started
+info: Apr-13-2023 17:33:16: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:33:16: 	updateTask function has ended
+info: Apr-13-2023 17:33:17: 	updateTask function has started
+info: Apr-13-2023 17:33:17: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:33:17: 	updateTask function has ended
+info: Apr-13-2023 17:33:17: 	updateTask function has started
+info: Apr-13-2023 17:33:17: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:33:17: 	updateTask function has ended
+info: Apr-13-2023 17:33:17: 	updateTask function has started
+info: Apr-13-2023 17:33:17: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:33:17: 	updateTask function has ended
+info: Apr-13-2023 17:33:18: 	updateTask function has started
+info: Apr-13-2023 17:33:18: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:33:18: 	updateTask function has ended
+info: Apr-13-2023 17:38:31: 	updateTask function has started
+info: Apr-13-2023 17:38:31: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:38:31: 	updateTask function has ended
+info: Apr-13-2023 17:50:02: 	updateTask function has started
+info: Apr-13-2023 17:50:02: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:02: 	updateTask function has ended
+info: Apr-13-2023 17:50:02: 	updateTask function has started
+info: Apr-13-2023 17:50:02: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:02: 	updateTask function has ended
+info: Apr-13-2023 17:50:03: 	updateTask function has started
+info: Apr-13-2023 17:50:03: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:03: 	updateTask function has ended
+info: Apr-13-2023 17:50:03: 	updateTask function has started
+info: Apr-13-2023 17:50:03: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:03: 	updateTask function has ended
+info: Apr-13-2023 17:50:03: 	updateTask function has started
+info: Apr-13-2023 17:50:03: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:03: 	updateTask function has ended
+info: Apr-13-2023 17:50:03: 	updateTask function has started
+info: Apr-13-2023 17:50:03: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:03: 	updateTask function has ended
+info: Apr-13-2023 17:50:12: 	updateTask function has started
+info: Apr-13-2023 17:50:12: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:12: 	updateTask function has ended
+info: Apr-13-2023 17:50:13: 	updateTask function has started
+info: Apr-13-2023 17:50:13: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:13: 	updateTask function has ended
+info: Apr-13-2023 17:50:13: 	updateTask function has started
+info: Apr-13-2023 17:50:13: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:50:13: 	updateTask function has ended
+info: Apr-13-2023 17:55:01: 	updateTask function has started
+info: Apr-13-2023 17:55:01: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:55:01: 	updateTask function has ended
+info: Apr-13-2023 17:57:07: 	updateTask function has started
+info: Apr-13-2023 17:57:07: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:57:07: 	updateTask function has ended
+info: Apr-13-2023 17:57:08: 	updateTask function has started
+info: Apr-13-2023 17:57:08: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:57:08: 	updateTask function has ended
+info: Apr-13-2023 17:57:09: 	updateTask function has started
+info: Apr-13-2023 17:57:09: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:57:09: 	updateTask function has ended
+info: Apr-13-2023 17:57:09: 	updateTask function has started
+info: Apr-13-2023 17:57:09: 	200 - invalid file path - /task/updateTask/1235 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 17:57:09: 	updateTask function has ended
+info: Apr-13-2023 17:57:41: 	updateTask function has started
+info: Apr-13-2023 17:57:41: 	updateTask function has ended
+info: Apr-13-2023 18:00:00: 	updateTask function has started
+info: Apr-13-2023 18:00:00: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 18:00:00: 	updateTask function has ended
+info: Apr-13-2023 18:00:01: 	updateTask function has started
+info: Apr-13-2023 18:00:01: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 18:00:01: 	updateTask function has ended
+info: Apr-13-2023 18:00:02: 	updateTask function has started
+info: Apr-13-2023 18:00:02: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 18:00:02: 	updateTask function has ended
+info: Apr-13-2023 18:00:02: 	updateTask function has started
+info: Apr-13-2023 18:00:02: 	200 - invalid file path - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 18:00:02: 	updateTask function has ended
+info: Apr-13-2023 18:04:42: 	updateTask function has started
+info: Apr-13-2023 18:04:42: 	200 - task updated successfully - /task/updateTask/1234 - PUT - ::ffff:127.0.0.1
+info: Apr-13-2023 18:04:42: 	updateTask function has ended
+info: Apr-13-2023 18:23:26: 	updateTask function has started
+info: Apr-13-2023 18:23:38: 	updateTask function has started
+info: Apr-13-2023 18:26:34: 	updateTask function has started
+info: Apr-13-2023 18:28:14: 	updateTask function has started
+info: Apr-13-2023 18:46:43: 	updateBuddy function has started
+info: Apr-13-2023 18:46:43: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:34: 	updateBuddy function has started
+info: Apr-13-2023 18:47:34: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:35: 	updateBuddy function has started
+info: Apr-13-2023 18:47:35: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:35: 	updateBuddy function has started
+info: Apr-13-2023 18:47:35: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:35: 	updateBuddy function has started
+info: Apr-13-2023 18:47:35: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:35: 	updateBuddy function has started
+info: Apr-13-2023 18:47:35: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:36: 	updateBuddy function has started
+info: Apr-13-2023 18:47:36: 	updateBuddy function has ended
+info: Apr-13-2023 18:47:36: 	updateBuddy function has started
+info: Apr-13-2023 18:47:36: 	updateBuddy function has ended
+info: Apr-13-2023 18:51:46: 	deleteTask function has started
+info: Apr-13-2023 18:51:46: 	deleteTask function has ended
+info: Apr-13-2023 18:51:47: 	deleteTask function has started
+info: Apr-13-2023 18:51:47: 	deleteTask function has ended
+info: Apr-13-2023 18:51:47: 	deleteTask function has started
+info: Apr-13-2023 18:51:47: 	deleteTask function has ended
+info: Apr-13-2023 18:53:40: 	deleteTask function has started
+info: Apr-13-2023 18:53:40: 	deleteTask function has ended
+info: Apr-13-2023 18:53:41: 	deleteTask function has started
+info: Apr-13-2023 18:53:41: 	deleteTask function has ended
+info: Apr-13-2023 18:53:41: 	deleteTask function has started
+info: Apr-13-2023 18:53:41: 	deleteTask function has ended
+info: Apr-13-2023 18:53:41: 	deleteTask function has started
+info: Apr-13-2023 18:53:41: 	deleteTask function has ended
+info: Apr-13-2023 18:53:41: 	deleteTask function has started
+info: Apr-13-2023 18:53:41: 	deleteTask function has ended
+info: Apr-13-2023 18:54:33: 	deleteTask function has started
+info: Apr-13-2023 18:54:33: 	deleteTask function has ended
+info: Apr-13-2023 18:54:33: 	deleteTask function has started
+info: Apr-13-2023 18:54:33: 	deleteTask function has ended
+info: Apr-13-2023 18:54:33: 	deleteTask function has started
+info: Apr-13-2023 18:54:33: 	deleteTask function has ended
+info: Apr-13-2023 18:54:34: 	deleteTask function has started
+info: Apr-13-2023 18:54:34: 	deleteTask function has ended
+info: Apr-13-2023 18:54:34: 	deleteTask function has started
+info: Apr-13-2023 18:54:34: 	deleteTask function has ended
+info: Apr-13-2023 19:01:46: 	deleteTask function has started
+info: Apr-13-2023 19:01:46: 	deleteTask function has ended
+info: Apr-13-2023 19:05:50: 	deleteTask function has started
+info: Apr-13-2023 19:05:50: 	deleteTask function has ended
+info: Apr-13-2023 19:06:46: 	deleteTask function has started
+info: Apr-13-2023 19:06:46: 	deleteTask function has ended
+info: Apr-13-2023 19:08:39: 	deleteTask function has started
+info: Apr-13-2023 19:08:39: 	deleteTask function has ended
+info: Apr-13-2023 19:14:06: 	deleteTask function has started
+info: Apr-13-2023 19:14:06: 	deleteTask function has ended
+info: Apr-13-2023 19:14:07: 	deleteTask function has started
+info: Apr-13-2023 19:14:07: 	deleteTask function has ended
+info: Apr-13-2023 19:14:07: 	deleteTask function has started
+info: Apr-13-2023 19:14:07: 	deleteTask function has ended
+info: Apr-13-2023 19:16:24: 	deleteTask function has started
+info: Apr-13-2023 19:16:24: 	deleteTask function has ended
+info: Apr-13-2023 19:24:43: 	deleteTask function has started
+info: Apr-13-2023 19:24:43: 	undefined - task deleted successfully - /task/deleteTask/1234 - DELETE - ::ffff:127.0.0.1
+info: Apr-13-2023 19:24:43: 	deleteTask function has ended
+info: Apr-14-2023 08:22:15: 	createTask function has started
+info: Apr-14-2023 08:22:15: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-14-2023 08:22:15: 	createTask function has ended
+info: Apr-14-2023 08:24:32: 	createTask function has started
+info: Apr-14-2023 08:24:32: 	createTask function has ended
+info: Apr-14-2023 08:43:47: 	createTask function has started
+info: Apr-14-2023 08:43:47: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-14-2023 08:43:47: 	createTask function has ended
+info: Apr-14-2023 08:59:08: 	createTask function has started
+info: Apr-14-2023 08:59:08: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-14-2023 08:59:08: 	createTask function has ended
+info: Apr-14-2023 09:08:16: 	deleteTask function has started
+info: Apr-14-2023 09:08:16: 	deleteTask function has ended
+info: Apr-14-2023 09:10:59: 	deleteTask function has started
+info: Apr-14-2023 09:10:59: 	deleteTask function has ended
+info: Apr-14-2023 09:12:48: 	deleteTask function has started
+info: Apr-14-2023 09:12:48: 	deleteTask function has ended
+info: Apr-14-2023 09:15:14: 	deleteTask function has started
+info: Apr-14-2023 09:15:14: 	deleteTask function has ended
+info: Apr-14-2023 09:21:15: 	deleteTask function has started
+info: Apr-14-2023 09:21:15: 	deleteTask function has ended
+info: Apr-14-2023 09:22:19: 	deleteTask function has started
+info: Apr-14-2023 09:22:19: 	deleteTask function has ended
+info: Apr-14-2023 09:25:49: 	createTask function has started
+info: Apr-14-2023 09:25:49: 	createTask function has ended
+info: Apr-14-2023 09:30:59: 	createTask function has started
+info: Apr-14-2023 09:30:59: 	createTask function has ended
+info: Apr-14-2023 09:37:35: 	createTask function has started
+info: Apr-14-2023 09:37:35: 	createTask function has ended
+info: Apr-14-2023 09:39:56: 	createTask function has started
+info: Apr-14-2023 09:39:56: 	createTask function has ended
+info: Apr-14-2023 09:41:01: 	deleteTask function has started
+info: Apr-14-2023 09:41:01: 	deleteTask function has ended
+info: Apr-14-2023 19:11:24: 	deleteTask function has started
+info: Apr-14-2023 19:11:24: 	deleteTask function has ended
+info: Apr-14-2023 19:17:36: 	deleteTask function has started
+info: Apr-14-2023 19:17:36: 	deleteTask function has ended
+info: Apr-14-2023 19:26:21: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-15-2023 02:48:24: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-15-2023 03:24:29: 	start :: login function
+info: Apr-15-2023 03:24:30: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-15-2023 03:24:30: 	End :: createAccount function
+info: Apr-15-2023 03:25:03: 	start :: login function
+info: Apr-15-2023 03:25:03: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-15-2023 03:25:03: 	End :: createAccount function
+info: Apr-15-2023 03:25:49: 	start :: deleteTask function
+info: Apr-15-2023 03:25:49: 	200 - task deleted successfully - /task/deleteTask/1239 - DELETE - ::ffff:127.0.0.1
+info: Apr-15-2023 03:25:49: 	End :: deleteTask function
+info: Apr-15-2023 19:13:35: 	start :: login function
+info: Apr-15-2023 19:13:36: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-15-2023 19:13:36: 	End :: createAccount function
+info: Apr-15-2023 19:15:43: 	200 - [object Object] - /task/filterTask/title/abcd - GET - ::ffff:127.0.0.1
+info: Apr-15-2023 19:19:18: 	start :: createTask function
+info: Apr-15-2023 19:19:18: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-15-2023 19:19:18: 	End :: createTask function
+info: Apr-15-2023 19:21:11: 	200 - [object Object],[object Object] - /task/filterTask/title/pqrs - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:24:51: 	start :: login function
+info: Apr-16-2023 00:24:51: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 00:24:51: 	End :: createAccount function
+info: Apr-16-2023 00:25:35: 	200 - [object Object],[object Object] - /task/filterTask/priority/9 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:30:44: 	200 - [object Object],[object Object] - /task/filterTask?criteria=priority&value=9 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:30:45: 	200 - [object Object],[object Object] - /task/filterTask?criteria=priority&value=9 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:31:28: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:31:30: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:31:52: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2023 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:34:44: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2023 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:46:04: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 00:53:29: 	start :: login function
+info: Apr-16-2023 00:53:29: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 00:53:29: 	End :: createAccount function
+info: Apr-16-2023 00:54:24: 	start :: login function
+info: Apr-16-2023 00:54:24: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 00:54:24: 	End :: createAccount function
+info: Apr-16-2023 00:55:12: 	start :: login function
+info: Apr-16-2023 00:55:12: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 00:55:12: 	End :: login function
+info: Apr-16-2023 02:05:50: 	start :: login function
+info: Apr-16-2023 02:05:50: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:05:50: 	End :: login function
+info: Apr-16-2023 02:09:17: 	start :: login function
+info: Apr-16-2023 02:09:17: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:09:17: 	End :: login function
+info: Apr-16-2023 02:09:41: 	start :: createTask function
+info: Apr-16-2023 02:09:41: 	End :: createTask function
+info: Apr-16-2023 02:09:46: 	start :: createTask function
+info: Apr-16-2023 02:09:46: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:09:46: 	End :: createTask function
+info: Apr-16-2023 02:09:51: 	start :: createTask function
+info: Apr-16-2023 02:09:51: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:09:51: 	End :: createTask function
+info: Apr-16-2023 02:09:55: 	start :: createTask function
+info: Apr-16-2023 02:09:55: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:09:55: 	End :: createTask function
+info: Apr-16-2023 02:10:01: 	start :: createTask function
+info: Apr-16-2023 02:10:01: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:10:01: 	End :: createTask function
+info: Apr-16-2023 02:10:03: 	start :: createTask function
+info: Apr-16-2023 02:10:03: 	End :: createTask function
+info: Apr-16-2023 02:10:07: 	start :: createTask function
+info: Apr-16-2023 02:10:07: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:10:07: 	End :: createTask function
+info: Apr-16-2023 02:10:12: 	start :: createTask function
+info: Apr-16-2023 02:10:12: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:10:12: 	End :: createTask function
+info: Apr-16-2023 02:10:16: 	start :: createTask function
+info: Apr-16-2023 02:10:16: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:10:16: 	End :: createTask function
+info: Apr-16-2023 02:10:22: 	start :: createTask function
+info: Apr-16-2023 02:10:22: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:10:22: 	End :: createTask function
+info: Apr-16-2023 02:11:24: 	start :: login function
+info: Apr-16-2023 02:11:24: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 02:11:24: 	End :: login function
+info: Apr-16-2023 02:11:41: 	start :: filterTask function
+info: Apr-16-2023 02:11:41: 	End :: filterTask function
+info: Apr-16-2023 02:12:04: 	start :: filterTask function
+info: Apr-16-2023 02:12:04: 	End :: filterTask function
+info: Apr-16-2023 02:13:34: 	start :: filterTask function
+info: Apr-16-2023 02:13:34: 	End :: filterTask function
+info: Apr-16-2023 02:16:24: 	start :: filterTask function
+info: Apr-16-2023 02:16:24: 	End :: filterTask function
+info: Apr-16-2023 02:16:27: 	start :: filterTask function
+info: Apr-16-2023 02:16:27: 	End :: filterTask function
+info: Apr-16-2023 02:16:28: 	start :: filterTask function
+info: Apr-16-2023 02:16:28: 	End :: filterTask function
+info: Apr-16-2023 02:16:28: 	start :: filterTask function
+info: Apr-16-2023 02:16:28: 	End :: filterTask function
+info: Apr-16-2023 02:18:11: 	start :: filterTask function
+info: Apr-16-2023 02:18:11: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:18:11: 	End :: filterTask function
+info: Apr-16-2023 02:19:15: 	start :: filterTask function
+info: Apr-16-2023 02:19:15: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:19:15: 	End :: filterTask function
+info: Apr-16-2023 02:19:24: 	start :: filterTask function
+info: Apr-16-2023 02:19:24: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:19:24: 	End :: filterTask function
+info: Apr-16-2023 02:19:35: 	start :: filterTask function
+info: Apr-16-2023 02:19:35: 	End :: filterTask function
+info: Apr-16-2023 02:19:54: 	start :: filterTask function
+info: Apr-16-2023 02:19:54: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:19:54: 	End :: filterTask function
+info: Apr-16-2023 02:20:26: 	start :: filterTask function
+info: Apr-16-2023 02:20:26: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:20:26: 	End :: filterTask function
+info: Apr-16-2023 02:21:47: 	start :: filterTask function
+info: Apr-16-2023 02:21:47: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:21:47: 	End :: filterTask function
+info: Apr-16-2023 02:21:52: 	start :: filterTask function
+info: Apr-16-2023 02:21:52: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:21:52: 	End :: filterTask function
+info: Apr-16-2023 02:22:46: 	start :: filterTask function
+info: Apr-16-2023 02:22:46: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:22:46: 	End :: filterTask function
+info: Apr-16-2023 02:22:55: 	start :: filterTask function
+info: Apr-16-2023 02:22:55: 	End :: filterTask function
+info: Apr-16-2023 02:23:02: 	start :: filterTask function
+info: Apr-16-2023 02:23:02: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:23:02: 	End :: filterTask function
+info: Apr-16-2023 02:23:17: 	start :: filterTask function
+info: Apr-16-2023 02:23:17: 	End :: filterTask function
+info: Apr-16-2023 02:27:43: 	start :: filterTask function
+info: Apr-16-2023 02:27:43: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:27:43: 	End :: filterTask function
+info: Apr-16-2023 02:28:13: 	start :: filterTask function
+info: Apr-16-2023 02:28:13: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:28:13: 	End :: filterTask function
+info: Apr-16-2023 02:28:20: 	start :: filterTask function
+info: Apr-16-2023 02:28:20: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:28:20: 	End :: filterTask function
+info: Apr-16-2023 02:28:26: 	start :: filterTask function
+info: Apr-16-2023 02:28:26: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:28:26: 	End :: filterTask function
+info: Apr-16-2023 02:28:33: 	start :: filterTask function
+info: Apr-16-2023 02:28:33: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=4&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:28:33: 	End :: filterTask function
+info: Apr-16-2023 02:28:58: 	start :: filterTask function
+info: Apr-16-2023 02:28:58: 	End :: filterTask function
+info: Apr-16-2023 02:29:04: 	start :: filterTask function
+info: Apr-16-2023 02:29:04: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=5&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:29:04: 	End :: filterTask function
+info: Apr-16-2023 02:29:08: 	start :: filterTask function
+info: Apr-16-2023 02:29:08: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=5&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:29:08: 	End :: filterTask function
+info: Apr-16-2023 02:29:15: 	start :: filterTask function
+info: Apr-16-2023 02:29:15: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:29:15: 	End :: filterTask function
+info: Apr-16-2023 02:29:20: 	start :: filterTask function
+info: Apr-16-2023 02:29:20: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=4 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:29:20: 	End :: filterTask function
+info: Apr-16-2023 02:29:27: 	start :: filterTask function
+info: Apr-16-2023 02:29:27: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=2&page=4 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:29:27: 	End :: filterTask function
+info: Apr-16-2023 02:29:35: 	start :: filterTask function
+info: Apr-16-2023 02:29:35: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=2&page=5 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:29:35: 	End :: filterTask function
+info: Apr-16-2023 02:29:53: 	start :: filterTask function
+info: Apr-16-2023 02:29:53: 	End :: filterTask function
+info: Apr-16-2023 02:30:00: 	start :: filterTask function
+info: Apr-16-2023 02:30:00: 	200 - [object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=2&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:30:00: 	End :: filterTask function
+info: Apr-16-2023 02:30:34: 	start :: filterTask function
+info: Apr-16-2023 02:30:34: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=1&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:30:34: 	End :: filterTask function
+info: Apr-16-2023 02:30:43: 	start :: filterTask function
+info: Apr-16-2023 02:30:43: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:30:43: 	End :: filterTask function
+info: Apr-16-2023 02:30:49: 	start :: filterTask function
+info: Apr-16-2023 02:30:49: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=4 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:30:49: 	End :: filterTask function
+info: Apr-16-2023 02:31:00: 	start :: filterTask function
+info: Apr-16-2023 02:31:00: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:31:00: 	End :: filterTask function
+info: Apr-16-2023 02:31:11: 	start :: filterTask function
+info: Apr-16-2023 02:31:11: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:31:11: 	End :: filterTask function
+info: Apr-16-2023 02:31:25: 	start :: filterTask function
+info: Apr-16-2023 02:31:25: 	End :: filterTask function
+info: Apr-16-2023 02:31:29: 	start :: filterTask function
+info: Apr-16-2023 02:31:29: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=4 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 02:31:29: 	End :: filterTask function
+info: Apr-16-2023 03:56:05: 	start :: login function
+info: Apr-16-2023 03:56:05: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 03:56:05: 	End :: login function
+info: Apr-16-2023 03:56:45: 	start :: filterTask function
+info: Apr-16-2023 03:56:45: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=4 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 03:56:45: 	End :: filterTask function
+info: Apr-16-2023 03:57:04: 	start :: filterTask function
+info: Apr-16-2023 03:57:04: 	End :: filterTask function
+info: Apr-16-2023 03:57:05: 	start :: filterTask function
+info: Apr-16-2023 03:57:05: 	End :: filterTask function
+info: Apr-16-2023 03:57:05: 	start :: filterTask function
+info: Apr-16-2023 03:57:05: 	End :: filterTask function
+info: Apr-16-2023 03:57:25: 	start :: filterTask function
+info: Apr-16-2023 03:57:25: 	End :: filterTask function
+info: Apr-16-2023 03:57:36: 	start :: filterTask function
+info: Apr-16-2023 03:57:36: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 03:57:36: 	End :: filterTask function
+info: Apr-16-2023 04:00:17: 	start :: login function
+info: Apr-16-2023 04:00:18: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 04:00:18: 	End :: login function
+info: Apr-16-2023 04:00:47: 	start :: filterTask function
+info: Apr-16-2023 04:00:47: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:00:47: 	End :: filterTask function
+info: Apr-16-2023 04:00:54: 	start :: filterTask function
+info: Apr-16-2023 04:00:54: 	End :: filterTask function
+info: Apr-16-2023 04:01:11: 	start :: filterTask function
+info: Apr-16-2023 04:01:11: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:01:11: 	End :: filterTask function
+info: Apr-16-2023 04:01:19: 	start :: filterTask function
+info: Apr-16-2023 04:01:19: 	End :: filterTask function
+info: Apr-16-2023 04:01:30: 	start :: filterTask function
+info: Apr-16-2023 04:01:30: 	End :: filterTask function
+info: Apr-16-2023 04:02:08: 	start :: filterTask function
+info: Apr-16-2023 04:02:08: 	End :: filterTask function
+info: Apr-16-2023 04:02:15: 	start :: filterTask function
+info: Apr-16-2023 04:02:15: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:02:15: 	End :: filterTask function
+info: Apr-16-2023 04:02:23: 	start :: filterTask function
+info: Apr-16-2023 04:02:23: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:02:23: 	End :: filterTask function
+info: Apr-16-2023 04:02:32: 	start :: filterTask function
+info: Apr-16-2023 04:02:32: 	End :: filterTask function
+info: Apr-16-2023 04:02:54: 	start :: filterTask function
+info: Apr-16-2023 04:02:54: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:02:54: 	End :: filterTask function
+info: Apr-16-2023 04:03:19: 	start :: filterTask function
+info: Apr-16-2023 04:03:19: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:03:19: 	End :: filterTask function
+info: Apr-16-2023 04:04:55: 	start :: login function
+info: Apr-16-2023 04:04:55: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 04:04:55: 	End :: login function
+info: Apr-16-2023 04:05:26: 	start :: filterTask function
+info: Apr-16-2023 04:05:26: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:05:26: 	End :: filterTask function
+info: Apr-16-2023 04:05:36: 	start :: filterTask function
+info: Apr-16-2023 04:05:36: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:05:36: 	End :: filterTask function
+info: Apr-16-2023 04:06:02: 	start :: filterTask function
+info: Apr-16-2023 04:06:02: 	End :: filterTask function
+info: Apr-16-2023 04:08:05: 	start :: filterTask function
+info: Apr-16-2023 04:08:05: 	End :: filterTask function
+info: Apr-16-2023 04:08:19: 	start :: filterTask function
+info: Apr-16-2023 04:08:19: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=4 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:08:19: 	End :: filterTask function
+info: Apr-16-2023 04:08:26: 	start :: filterTask function
+info: Apr-16-2023 04:08:26: 	End :: filterTask function
+info: Apr-16-2023 04:08:28: 	start :: filterTask function
+info: Apr-16-2023 04:08:28: 	End :: filterTask function
+info: Apr-16-2023 04:08:42: 	start :: filterTask function
+info: Apr-16-2023 04:08:42: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:08:42: 	End :: filterTask function
+info: Apr-16-2023 04:08:48: 	start :: filterTask function
+info: Apr-16-2023 04:08:48: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:08:48: 	End :: filterTask function
+info: Apr-16-2023 04:08:58: 	start :: filterTask function
+info: Apr-16-2023 04:08:58: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:08:58: 	End :: filterTask function
+info: Apr-16-2023 04:09:05: 	start :: filterTask function
+info: Apr-16-2023 04:09:05: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:09:05: 	End :: filterTask function
+info: Apr-16-2023 04:09:22: 	start :: filterTask function
+info: Apr-16-2023 04:09:22: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:09:22: 	End :: filterTask function
+info: Apr-16-2023 04:09:24: 	start :: filterTask function
+info: Apr-16-2023 04:09:24: 	End :: filterTask function
+info: Apr-16-2023 04:09:31: 	start :: filterTask function
+info: Apr-16-2023 04:09:31: 	End :: filterTask function
+info: Apr-16-2023 04:11:00: 	start :: filterTask function
+info: Apr-16-2023 04:11:00: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:11:00: 	End :: filterTask function
+info: Apr-16-2023 04:11:07: 	start :: filterTask function
+info: Apr-16-2023 04:11:07: 	End :: filterTask function
+info: Apr-16-2023 04:11:20: 	start :: filterTask function
+info: Apr-16-2023 04:11:20: 	End :: filterTask function
+info: Apr-16-2023 04:11:27: 	start :: filterTask function
+info: Apr-16-2023 04:11:27: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:11:27: 	End :: filterTask function
+info: Apr-16-2023 04:11:33: 	start :: filterTask function
+info: Apr-16-2023 04:11:33: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:11:33: 	End :: filterTask function
+info: Apr-16-2023 04:14:54: 	start :: filterTask function
+info: Apr-16-2023 04:14:54: 	End :: filterTask function
+info: Apr-16-2023 04:15:02: 	start :: filterTask function
+info: Apr-16-2023 04:15:02: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:15:02: 	End :: filterTask function
+info: Apr-16-2023 04:15:17: 	start :: filterTask function
+info: Apr-16-2023 04:15:17: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:15:17: 	End :: filterTask function
+info: Apr-16-2023 04:15:58: 	start :: filterTask function
+info: Apr-16-2023 04:15:58: 	End :: filterTask function
+info: Apr-16-2023 04:16:09: 	start :: filterTask function
+info: Apr-16-2023 04:16:09: 	End :: filterTask function
+info: Apr-16-2023 04:16:18: 	start :: filterTask function
+info: Apr-16-2023 04:16:18: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:16:18: 	End :: filterTask function
+info: Apr-16-2023 04:16:28: 	start :: filterTask function
+info: Apr-16-2023 04:16:28: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:16:28: 	End :: filterTask function
+info: Apr-16-2023 04:16:39: 	start :: filterTask function
+info: Apr-16-2023 04:16:39: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:16:39: 	End :: filterTask function
+info: Apr-16-2023 04:16:48: 	start :: filterTask function
+info: Apr-16-2023 04:16:48: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:16:48: 	End :: filterTask function
+info: Apr-16-2023 04:16:59: 	start :: filterTask function
+info: Apr-16-2023 04:16:59: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:16:59: 	End :: filterTask function
+info: Apr-16-2023 04:17:08: 	start :: filterTask function
+info: Apr-16-2023 04:17:08: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:17:08: 	End :: filterTask function
+info: Apr-16-2023 04:18:26: 	start :: filterTask function
+info: Apr-16-2023 04:18:26: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:18:26: 	End :: filterTask function
+info: Apr-16-2023 04:18:27: 	start :: filterTask function
+info: Apr-16-2023 04:18:27: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:18:27: 	End :: filterTask function
+info: Apr-16-2023 04:18:35: 	start :: filterTask function
+info: Apr-16-2023 04:18:35: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:18:35: 	End :: filterTask function
+info: Apr-16-2023 04:18:42: 	start :: filterTask function
+info: Apr-16-2023 04:18:42: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:18:42: 	End :: filterTask function
+info: Apr-16-2023 04:18:44: 	start :: filterTask function
+info: Apr-16-2023 04:18:45: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:18:45: 	End :: filterTask function
+info: Apr-16-2023 04:18:46: 	start :: filterTask function
+info: Apr-16-2023 04:18:46: 	End :: filterTask function
+info: Apr-16-2023 04:18:54: 	start :: filterTask function
+info: Apr-16-2023 04:18:54: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:18:54: 	End :: filterTask function
+info: Apr-16-2023 04:19:17: 	start :: filterTask function
+info: Apr-16-2023 04:19:17: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:17: 	End :: filterTask function
+info: Apr-16-2023 04:19:20: 	start :: filterTask function
+info: Apr-16-2023 04:19:20: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:20: 	End :: filterTask function
+info: Apr-16-2023 04:19:21: 	start :: filterTask function
+info: Apr-16-2023 04:19:21: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:21: 	End :: filterTask function
+info: Apr-16-2023 04:19:22: 	start :: filterTask function
+info: Apr-16-2023 04:19:22: 	End :: filterTask function
+info: Apr-16-2023 04:19:29: 	start :: filterTask function
+info: Apr-16-2023 04:19:29: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:29: 	End :: filterTask function
+info: Apr-16-2023 04:19:37: 	start :: filterTask function
+info: Apr-16-2023 04:19:37: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:37: 	End :: filterTask function
+info: Apr-16-2023 04:19:38: 	start :: filterTask function
+info: Apr-16-2023 04:19:38: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:38: 	End :: filterTask function
+info: Apr-16-2023 04:19:39: 	start :: filterTask function
+info: Apr-16-2023 04:19:39: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:39: 	End :: filterTask function
+info: Apr-16-2023 04:19:40: 	start :: filterTask function
+info: Apr-16-2023 04:19:40: 	End :: filterTask function
+info: Apr-16-2023 04:19:48: 	start :: filterTask function
+info: Apr-16-2023 04:19:48: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:48: 	End :: filterTask function
+info: Apr-16-2023 04:19:49: 	start :: filterTask function
+info: Apr-16-2023 04:19:49: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:49: 	End :: filterTask function
+info: Apr-16-2023 04:19:51: 	start :: filterTask function
+info: Apr-16-2023 04:19:51: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:51: 	End :: filterTask function
+info: Apr-16-2023 04:19:51: 	start :: filterTask function
+info: Apr-16-2023 04:19:51: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=previous - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:19:51: 	End :: filterTask function
+info: Apr-16-2023 04:19:52: 	start :: filterTask function
+info: Apr-16-2023 04:19:52: 	End :: filterTask function
+info: Apr-16-2023 04:20:02: 	start :: filterTask function
+info: Apr-16-2023 04:20:02: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:20:02: 	End :: filterTask function
+info: Apr-16-2023 04:20:12: 	start :: filterTask function
+info: Apr-16-2023 04:20:12: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:20:12: 	End :: filterTask function
+info: Apr-16-2023 04:20:24: 	start :: filterTask function
+info: Apr-16-2023 04:20:24: 	End :: filterTask function
+info: Apr-16-2023 04:20:31: 	start :: filterTask function
+info: Apr-16-2023 04:20:31: 	End :: filterTask function
+info: Apr-16-2023 04:21:00: 	start :: filterTask function
+info: Apr-16-2023 04:21:00: 	End :: filterTask function
+info: Apr-16-2023 04:21:08: 	start :: filterTask function
+info: Apr-16-2023 04:21:08: 	End :: filterTask function
+info: Apr-16-2023 04:21:22: 	start :: filterTask function
+info: Apr-16-2023 04:21:22: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:21:22: 	End :: filterTask function
+info: Apr-16-2023 04:21:28: 	start :: filterTask function
+info: Apr-16-2023 04:21:28: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:21:28: 	End :: filterTask function
+info: Apr-16-2023 04:21:41: 	start :: filterTask function
+info: Apr-16-2023 04:21:41: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:21:41: 	End :: filterTask function
+info: Apr-16-2023 04:21:43: 	start :: filterTask function
+info: Apr-16-2023 04:21:43: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:21:43: 	End :: filterTask function
+info: Apr-16-2023 04:21:45: 	start :: filterTask function
+info: Apr-16-2023 04:21:45: 	End :: filterTask function
+info: Apr-16-2023 04:21:52: 	start :: filterTask function
+info: Apr-16-2023 04:21:52: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:21:52: 	End :: filterTask function
+info: Apr-16-2023 04:22:08: 	start :: filterTask function
+info: Apr-16-2023 04:22:08: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:08: 	End :: filterTask function
+info: Apr-16-2023 04:22:12: 	start :: filterTask function
+info: Apr-16-2023 04:22:12: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:12: 	End :: filterTask function
+info: Apr-16-2023 04:22:13: 	start :: filterTask function
+info: Apr-16-2023 04:22:13: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:13: 	End :: filterTask function
+info: Apr-16-2023 04:22:15: 	start :: filterTask function
+info: Apr-16-2023 04:22:15: 	End :: filterTask function
+info: Apr-16-2023 04:22:21: 	start :: filterTask function
+info: Apr-16-2023 04:22:21: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:21: 	End :: filterTask function
+info: Apr-16-2023 04:22:23: 	start :: filterTask function
+info: Apr-16-2023 04:22:23: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:23: 	End :: filterTask function
+info: Apr-16-2023 04:22:24: 	start :: filterTask function
+info: Apr-16-2023 04:22:24: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:24: 	End :: filterTask function
+info: Apr-16-2023 04:22:25: 	start :: filterTask function
+info: Apr-16-2023 04:22:25: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:25: 	End :: filterTask function
+info: Apr-16-2023 04:22:25: 	start :: filterTask function
+info: Apr-16-2023 04:22:25: 	End :: filterTask function
+info: Apr-16-2023 04:22:31: 	start :: filterTask function
+info: Apr-16-2023 04:22:31: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:31: 	End :: filterTask function
+info: Apr-16-2023 04:22:34: 	start :: filterTask function
+info: Apr-16-2023 04:22:34: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:34: 	End :: filterTask function
+info: Apr-16-2023 04:22:35: 	start :: filterTask function
+info: Apr-16-2023 04:22:35: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:35: 	End :: filterTask function
+info: Apr-16-2023 04:22:39: 	start :: filterTask function
+info: Apr-16-2023 04:22:39: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:39: 	End :: filterTask function
+info: Apr-16-2023 04:22:48: 	start :: filterTask function
+info: Apr-16-2023 04:22:48: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:48: 	End :: filterTask function
+info: Apr-16-2023 04:22:56: 	start :: filterTask function
+info: Apr-16-2023 04:22:56: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:22:56: 	End :: filterTask function
+info: Apr-16-2023 04:23:03: 	start :: filterTask function
+info: Apr-16-2023 04:23:03: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:23:03: 	End :: filterTask function
+info: Apr-16-2023 04:23:06: 	start :: filterTask function
+info: Apr-16-2023 04:23:06: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:23:06: 	End :: filterTask function
+info: Apr-16-2023 04:23:12: 	start :: filterTask function
+info: Apr-16-2023 04:23:12: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:23:12: 	End :: filterTask function
+info: Apr-16-2023 04:23:38: 	start :: filterTask function
+info: Apr-16-2023 04:23:38: 	End :: filterTask function
+info: Apr-16-2023 04:23:46: 	start :: filterTask function
+info: Apr-16-2023 04:23:46: 	End :: filterTask function
+info: Apr-16-2023 04:23:53: 	start :: filterTask function
+info: Apr-16-2023 04:23:53: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:23:53: 	End :: filterTask function
+info: Apr-16-2023 04:24:03: 	start :: filterTask function
+info: Apr-16-2023 04:24:03: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=2 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:24:03: 	End :: filterTask function
+info: Apr-16-2023 04:24:10: 	start :: filterTask function
+info: Apr-16-2023 04:24:10: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:24:10: 	End :: filterTask function
+info: Apr-16-2023 04:24:17: 	start :: filterTask function
+info: Apr-16-2023 04:24:17: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:24:17: 	End :: filterTask function
+info: Apr-16-2023 04:24:18: 	start :: filterTask function
+info: Apr-16-2023 04:24:18: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:24:18: 	End :: filterTask function
+info: Apr-16-2023 04:35:29: 	start :: login function
+info: Apr-16-2023 04:35:29: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 04:35:29: 	End :: login function
+info: Apr-16-2023 04:35:52: 	start :: filterTask function
+info: Apr-16-2023 04:35:52: 	End :: filterTask function
+info: Apr-16-2023 04:36:05: 	start :: filterTask function
+info: Apr-16-2023 04:36:05: 	End :: filterTask function
+info: Apr-16-2023 04:36:06: 	start :: filterTask function
+info: Apr-16-2023 04:36:06: 	End :: filterTask function
+info: Apr-16-2023 04:36:06: 	start :: filterTask function
+info: Apr-16-2023 04:36:06: 	End :: filterTask function
+info: Apr-16-2023 04:41:46: 	start :: filterTask function
+info: Apr-16-2023 04:41:46: 	End :: filterTask function
+info: Apr-16-2023 04:41:48: 	start :: filterTask function
+info: Apr-16-2023 04:41:48: 	End :: filterTask function
+info: Apr-16-2023 04:41:48: 	start :: filterTask function
+info: Apr-16-2023 04:41:48: 	End :: filterTask function
+info: Apr-16-2023 04:41:57: 	start :: login function
+info: Apr-16-2023 04:41:57: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 04:41:57: 	End :: login function
+info: Apr-16-2023 04:42:04: 	start :: filterTask function
+info: Apr-16-2023 04:42:04: 	End :: filterTask function
+info: Apr-16-2023 04:45:18: 	start :: filterTask function
+info: Apr-16-2023 04:45:18: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=3 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:18: 	End :: filterTask function
+info: Apr-16-2023 04:45:26: 	start :: filterTask function
+info: Apr-16-2023 04:45:26: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:26: 	End :: filterTask function
+info: Apr-16-2023 04:45:28: 	start :: filterTask function
+info: Apr-16-2023 04:45:28: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:28: 	End :: filterTask function
+info: Apr-16-2023 04:45:29: 	start :: filterTask function
+info: Apr-16-2023 04:45:29: 	End :: filterTask function
+info: Apr-16-2023 04:45:36: 	start :: filterTask function
+info: Apr-16-2023 04:45:36: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:36: 	End :: filterTask function
+info: Apr-16-2023 04:45:38: 	start :: filterTask function
+info: Apr-16-2023 04:45:38: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:38: 	End :: filterTask function
+info: Apr-16-2023 04:45:40: 	start :: filterTask function
+info: Apr-16-2023 04:45:40: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:40: 	End :: filterTask function
+info: Apr-16-2023 04:45:42: 	start :: filterTask function
+info: Apr-16-2023 04:45:42: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:42: 	End :: filterTask function
+info: Apr-16-2023 04:45:46: 	start :: filterTask function
+info: Apr-16-2023 04:45:46: 	End :: filterTask function
+info: Apr-16-2023 04:45:53: 	start :: filterTask function
+info: Apr-16-2023 04:45:53: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:53: 	End :: filterTask function
+info: Apr-16-2023 04:45:56: 	start :: filterTask function
+info: Apr-16-2023 04:45:56: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:56: 	End :: filterTask function
+info: Apr-16-2023 04:45:59: 	start :: filterTask function
+info: Apr-16-2023 04:45:59: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:45:59: 	End :: filterTask function
+info: Apr-16-2023 04:46:02: 	start :: filterTask function
+info: Apr-16-2023 04:46:02: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:46:02: 	End :: filterTask function
+info: Apr-16-2023 04:47:16: 	start :: filterTask function
+info: Apr-16-2023 04:47:16: 	End :: filterTask function
+info: Apr-16-2023 04:47:21: 	start :: filterTask function
+info: Apr-16-2023 04:47:21: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:21: 	End :: filterTask function
+info: Apr-16-2023 04:47:28: 	start :: filterTask function
+info: Apr-16-2023 04:47:28: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:28: 	End :: filterTask function
+info: Apr-16-2023 04:47:30: 	start :: filterTask function
+info: Apr-16-2023 04:47:30: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:30: 	End :: filterTask function
+info: Apr-16-2023 04:47:33: 	start :: filterTask function
+info: Apr-16-2023 04:47:33: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:33: 	End :: filterTask function
+info: Apr-16-2023 04:47:40: 	start :: filterTask function
+info: Apr-16-2023 04:47:40: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:40: 	End :: filterTask function
+info: Apr-16-2023 04:47:42: 	start :: filterTask function
+info: Apr-16-2023 04:47:42: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:42: 	End :: filterTask function
+info: Apr-16-2023 04:47:44: 	start :: filterTask function
+info: Apr-16-2023 04:47:44: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:44: 	End :: filterTask function
+info: Apr-16-2023 04:47:46: 	start :: filterTask function
+info: Apr-16-2023 04:47:46: 	End :: filterTask function
+info: Apr-16-2023 04:47:51: 	start :: filterTask function
+info: Apr-16-2023 04:47:51: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:51: 	End :: filterTask function
+info: Apr-16-2023 04:47:52: 	start :: filterTask function
+info: Apr-16-2023 04:47:52: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:52: 	End :: filterTask function
+info: Apr-16-2023 04:47:55: 	start :: filterTask function
+info: Apr-16-2023 04:47:55: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:47:55: 	End :: filterTask function
+info: Apr-16-2023 04:48:00: 	start :: filterTask function
+info: Apr-16-2023 04:48:00: 	200 - [object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:48:00: 	End :: filterTask function
+info: Apr-16-2023 04:48:05: 	start :: filterTask function
+info: Apr-16-2023 04:48:05: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:48:05: 	End :: filterTask function
+info: Apr-16-2023 04:48:08: 	start :: filterTask function
+info: Apr-16-2023 04:48:08: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:48:08: 	End :: filterTask function
+info: Apr-16-2023 04:48:18: 	start :: filterTask function
+info: Apr-16-2023 04:48:18: 	200 - [object Object],[object Object],[object Object] - /task/filterTask?criteria=dueDate&value=26/09/2022&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 04:48:18: 	End :: filterTask function
+info: Apr-16-2023 05:31:37: 	start :: login function
+info: Apr-16-2023 05:31:37: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 05:31:37: 	End :: login function
+info: Apr-16-2023 13:27:36: 	start :: login function
+info: Apr-16-2023 13:27:36: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 13:27:36: 	End :: login function
+info: Apr-16-2023 13:27:59: 	start :: sortingTask function
+info: Apr-16-2023 13:27:59: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:27:59: 	End :: sortingTask function
+info: Apr-16-2023 13:28:40: 	start :: sortingTask function
+info: Apr-16-2023 13:28:40: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:28:40: 	End :: sortingTask function
+info: Apr-16-2023 13:29:10: 	start :: sortingTask function
+info: Apr-16-2023 13:29:10: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=priority&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:29:10: 	End :: sortingTask function
+info: Apr-16-2023 13:34:44: 	start :: sortingTask function
+info: Apr-16-2023 13:34:44: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=priority&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:34:44: 	End :: sortingTask function
+info: Apr-16-2023 13:35:44: 	start :: sortingTask function
+info: Apr-16-2023 13:35:44: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:35:44: 	End :: sortingTask function
+info: Apr-16-2023 13:37:11: 	start :: sortingTask function
+info: Apr-16-2023 13:37:11: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:37:11: 	End :: sortingTask function
+info: Apr-16-2023 13:37:33: 	start :: sortingTask function
+info: Apr-16-2023 13:37:33: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:37:33: 	End :: sortingTask function
+info: Apr-16-2023 13:37:45: 	start :: sortingTask function
+info: Apr-16-2023 13:37:45: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=4&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:37:45: 	End :: sortingTask function
+info: Apr-16-2023 13:38:04: 	start :: sortingTask function
+info: Apr-16-2023 13:38:04: 	End :: sortingTask function
+info: Apr-16-2023 13:38:13: 	start :: sortingTask function
+info: Apr-16-2023 13:38:13: 	End :: sortingTask function
+info: Apr-16-2023 13:38:19: 	start :: sortingTask function
+info: Apr-16-2023 13:38:19: 	200 - [object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:38:19: 	End :: sortingTask function
+info: Apr-16-2023 13:38:23: 	start :: sortingTask function
+info: Apr-16-2023 13:38:23: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:38:23: 	End :: sortingTask function
+info: Apr-16-2023 13:38:26: 	start :: sortingTask function
+info: Apr-16-2023 13:38:26: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:38:26: 	End :: sortingTask function
+info: Apr-16-2023 13:41:58: 	start :: sortingTask function
+info: Apr-16-2023 13:41:58: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=title&pageSize=3&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:41:58: 	End :: sortingTask function
+info: Apr-16-2023 13:42:17: 	start :: sortingTask function
+info: Apr-16-2023 13:42:17: 	End :: sortingTask function
+info: Apr-16-2023 13:42:23: 	start :: sortingTask function
+info: Apr-16-2023 13:42:23: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=priority&pageSize=5&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:42:23: 	End :: sortingTask function
+info: Apr-16-2023 13:43:30: 	start :: sortingTask function
+info: Apr-16-2023 13:43:30: 	200 - [object Object],[object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=priority&pageSize=5&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:43:30: 	End :: sortingTask function
+info: Apr-16-2023 13:43:40: 	start :: sortingTask function
+info: Apr-16-2023 13:43:40: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=priority&pageSize=4&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:43:40: 	End :: sortingTask function
+info: Apr-16-2023 13:43:49: 	start :: sortingTask function
+info: Apr-16-2023 13:43:49: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=priority&pageSize=4&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:43:49: 	End :: sortingTask function
+info: Apr-16-2023 13:44:40: 	start :: sortingTask function
+info: Apr-16-2023 13:44:40: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:44:40: 	End :: sortingTask function
+info: Apr-16-2023 13:44:51: 	start :: sortingTask function
+info: Apr-16-2023 13:44:51: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=1 - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:44:51: 	End :: sortingTask function
+info: Apr-16-2023 13:45:05: 	start :: sortingTask function
+info: Apr-16-2023 13:45:05: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:45:05: 	End :: sortingTask function
+info: Apr-16-2023 13:45:11: 	start :: sortingTask function
+info: Apr-16-2023 13:45:11: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=next - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:45:11: 	End :: sortingTask function
+info: Apr-16-2023 13:45:31: 	start :: sortingTask function
+info: Apr-16-2023 13:45:31: 	End :: sortingTask function
+info: Apr-16-2023 13:45:40: 	start :: sortingTask function
+info: Apr-16-2023 13:45:40: 	200 - [object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:45:40: 	End :: sortingTask function
+info: Apr-16-2023 13:45:45: 	start :: sortingTask function
+info: Apr-16-2023 13:45:45: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:45:45: 	End :: sortingTask function
+info: Apr-16-2023 13:46:03: 	start :: sortingTask function
+info: Apr-16-2023 13:46:03: 	200 - [object Object],[object Object],[object Object],[object Object] - /task/sortingTask?criteria=dueDate&pageSize=4&page=prev - GET - ::ffff:127.0.0.1
+info: Apr-16-2023 13:46:03: 	End :: sortingTask function
+info: Apr-16-2023 21:18:37: 	start :: login function
+info: Apr-16-2023 21:18:37: 	200 - logged in successfully - /user/login - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 21:18:37: 	End :: login function
+info: Apr-16-2023 21:19:11: 	start :: createTask function
+info: Apr-16-2023 21:19:11: 	End :: createTask function
+info: Apr-16-2023 21:19:23: 	start :: createTask function
+info: Apr-16-2023 21:19:23: 	End :: createTask function
+info: Apr-16-2023 21:20:39: 	start :: createTask function
+info: Apr-16-2023 21:20:39: 	End :: createTask function
+info: Apr-16-2023 21:20:41: 	start :: createTask function
+info: Apr-16-2023 21:20:41: 	End :: createTask function
+info: Apr-16-2023 21:20:41: 	start :: createTask function
+info: Apr-16-2023 21:20:41: 	End :: createTask function
+info: Apr-16-2023 21:20:41: 	start :: createTask function
+info: Apr-16-2023 21:20:41: 	End :: createTask function
+info: Apr-16-2023 21:21:48: 	start :: createTask function
+info: Apr-16-2023 21:21:48: 	End :: createTask function
+info: Apr-16-2023 21:21:49: 	start :: createTask function
+info: Apr-16-2023 21:21:49: 	End :: createTask function
+info: Apr-16-2023 21:21:49: 	start :: createTask function
+info: Apr-16-2023 21:21:49: 	End :: createTask function
+info: Apr-16-2023 21:21:50: 	start :: createTask function
+info: Apr-16-2023 21:21:50: 	End :: createTask function
+info: Apr-16-2023 21:21:52: 	start :: createTask function
+info: Apr-16-2023 21:21:52: 	End :: createTask function
+info: Apr-16-2023 21:21:52: 	start :: createTask function
+info: Apr-16-2023 21:21:52: 	End :: createTask function
+info: Apr-16-2023 21:21:52: 	start :: createTask function
+info: Apr-16-2023 21:21:52: 	End :: createTask function
+info: Apr-16-2023 21:22:17: 	start :: createTask function
+info: Apr-16-2023 21:22:17: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 21:22:17: 	End :: createTask function
+info: Apr-16-2023 21:24:46: 	start :: createTask function
+info: Apr-16-2023 21:24:46: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 21:24:46: 	End :: createTask function
+info: Apr-16-2023 21:26:43: 	start :: createTask function
+info: Apr-16-2023 21:26:43: 	201 - task created successfully - /task/createTask - POST - ::ffff:127.0.0.1
+info: Apr-16-2023 21:26:43: 	End :: createTask function
